@@ -1,9 +1,9 @@
 # Project-IDX — STM32F411에서 FPGA까지, 같은 로직을 두 번 만들기
 
-> Google Project IDX(Firebase Studio) 환경에서 **STM32F411(CMSIS 레지스터 접근, HAL 없음)** 을 개발하고,
-> 그 예제를 **VHDL / Verilog FPGA 로직으로 그대로 옮겨 보는** 실습 문서 세트입니다.
->
-> 대상 보드: **NUCLEO-F411RE** / FPGA 예시 보드: **Basys 3**
+> Google Project IDX(Firebase Studio) 환경에서 **STM32F411(CMSIS 레지스터 접근, HAL 없음)** 을 개발하고, <br>
+> 그 예제를 **VHDL / Verilog FPGA 로직으로 그대로 옮겨 보는** 실습 문서 세트입니다.<br>
+> <br>
+> 대상 보드: **NUCLEO-F411RE** / FPGA 예시 보드: **Basys 3**<br>
 > 작성 기준일: 2026-10-18
 
 ---
