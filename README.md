@@ -19,8 +19,8 @@ Google이 **Firebase Studio(구 Project IDX) 종료를 발표**했습니다.
 | 2026-06-22 | 신규 가입 / 신규 워크스페이스 생성 중단 |
 | **2027-03-22** | **서비스 종료 예정** |
 
-따라서 이 문서는 **(A) IDX/Firebase Studio 기준 설정**과 **(B) GitHub Codespaces · 로컬 VS Code에서
-동일 환경 재현**을 함께 다룹니다. **새로운 교육과정에 IDX를 도입하는 용도에는 적합하지 않습니다.**
+따라서 이 문서는 **(A) IDX/Firebase Studio 기준 설정**과 **(B) GitHub Codespaces · 로컬 VS Code에서<br>
+동일 환경 재현**을 함께 다룹니다. **새로운 교육과정에 IDX를 도입하는 용도에는 적합하지 않습니다.**<br>
 최신 상태는 공식 안내(<https://firebase.google.com/docs/studio/migrating-project>)에서 확인하세요.
 
 ---
